@@ -1,0 +1,9 @@
+{
+    "productid"                	: "471e8e6860b8419b8774726873527b1b",
+    "sandboxid"                	: "25e09a8c24c44683bca1a6f25aea9221",
+    "deploymentid"             	: "3ee387e855d949679ce8f4c1ad274a02",
+    "title"						: "SniperElite5",
+    "executable"					: "bin\sniper5_Vulkan.exe",
+    "requested_splash"				: "EasyAntiCheat/splash.png",
+ "wait_for_game_process_exit"	: "true"
+}

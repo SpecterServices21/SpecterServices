@@ -1,0 +1,9 @@
+{
+	"title"											: "SniperElite5",
+	"executable"									: "bin\sniper5_dx12.exe",
+	"productid"										: "ea05d77bb94842edb08f797ae7bec1b1",
+	"sandboxid"										: "18ad196e381b9501bf856e71a85ee0df",
+	"deploymentid"									: "db00a4f091aa4f82bdf30c6dfe68e14d",
+	"requested_splash"								: "EasyAntiCheat\splash.png",
+	"wait_for_game_process_exit"					: "true"
+}
